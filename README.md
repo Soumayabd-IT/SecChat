@@ -110,4 +110,4 @@ CyberChat demonstrates the practical application of concepts learned in CS50P: f
 **Author**: Soumia Badaoui  
 **Course**: CS50's Introduction to Programming with Python  
 **Date**: 30/11/2025 
-**GitHub**: https://github.com/Soumayabd-IT/CyberChat
+**GitHub**: https://github.com/Soumayabd-IT/SecChat
