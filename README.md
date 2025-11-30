@@ -1,6 +1,6 @@
 # CyberChat - Intelligent Cybersecurity Assistant
 
-#### Video Demo: <URL_YOUTUBE>
+#### Video Demo: https://youtu.be/durAlmMTZwI
 
 #### Description:
 
